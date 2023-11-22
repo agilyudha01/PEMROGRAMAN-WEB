@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+}
+.left{
+    flex: 2;
+}
+.right{
+    flex: 1;
+    padding: 10px;
+    background-color: aqua;
+    align-items: center;
+}
+.right ul{
+    text-align: left;
+}

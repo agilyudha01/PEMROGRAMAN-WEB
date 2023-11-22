@@ -1,0 +1,115 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+body{
+    background: url(aset/pxfuel.jpg);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.logo{
+    width: 70px;
+}
+
+.linkAkun{
+    height: max-content;
+    padding: 20%;
+}
+.akun{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    opacity: 70%;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-radius: 3px;
+    height: max-content;
+
+    
+}
+
+.menuItem{
+    min-width: 80px;
+    text-align: center;
+    font-size: 20px;
+    padding: 0.5em 0.5em;
+
+    border: 1px solid black;
+
+    
+
+}
+
+
+.judul{
+    text-align: center;
+}
+.judul h1{
+    margin-bottom: 0;
+    color:#e2c51d;
+    /* opacity: 50%; */
+}
+.judul h2{
+    opacity: 70%;
+    margin-top: 0;
+    color: #ffffff;
+
+}
+
+.show{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageShow {
+    height: 300px;
+    object-fit: cover;
+    overflow: hidden;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
+
+.introduction{
+    align-items: center;
+}
+.introduction p{
+    color: #ffffff;
+    opacity: 90%;
+    margin: 20opx;
+    width: 70%;
+    padding-top: 10px;
+    margin:auto;
+    text-align: left;
+    font-size:large;
+
+}
+.linkPutih{
+    color: #ffffff;
+}
+
+
+.listTugas{
+    color: #ffffff;
+    font-size:25px;
+    padding: 10%;
+    padding-top: 10px;
+}
+
