@@ -19,19 +19,6 @@ body{
     width: 70px;
 }
 
-.linkAkun{
-    height: max-content;
-    padding: 20%;
-}
-.akun{
-    text-align: center;
-    font-size: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
-    border: 1px solid black;
-    background-color: #ffffff;
-    opacity: 70%;
-}
 
 .menu{
     display: flex;
@@ -55,7 +42,7 @@ body{
     border: 1px solid black;
 
     
-
+    
 }
 
 
@@ -71,7 +58,7 @@ body{
     opacity: 70%;
     margin-top: 0;
     color: #ffffff;
-
+    
 }
 
 .show{
@@ -99,7 +86,7 @@ body{
     margin:auto;
     text-align: left;
     font-size:large;
-
+    
 }
 .linkPutih{
     color: #ffffff;
@@ -113,3 +100,19 @@ body{
     padding-top: 10px;
 }
 
+.linkAkun{
+    height: max-content;
+    padding: 20%;
+}
+.akun{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    opacity: 70%;
+}
+.akun img{
+    width: 20px;
+}
